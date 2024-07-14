@@ -1,3 +1,6 @@
+streamlit
 yfinance
-Prophet
+prophet
 plotly
+statsmodels
+pandas
